@@ -2,4 +2,4 @@
 
 Teste avaliativo  AVON
 
-Site responsivo podesendo ser acessado em qualquer dispositivo mobile
+Site responsivo  (Conteudo avaliativo)
